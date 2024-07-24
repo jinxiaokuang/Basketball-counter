@@ -1,0 +1,230 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/sim/behav
+T_opt
+!s110 1685494214
+VUKaz<aEzlg__dOb1KW_U92
+04 6 4 work tb_top fast 0
+=1-cc6b1e548e17-647699c6-1ac-1478
+Z1 o-quiet -auto_acc_if_foreign -work work -L work -L usim +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.5;63
+T_opt1
+!s110 1685493661
+VPzRh9lXQmn4i=UU0NzXZQ0
+04 10 4 work tb_counter fast 0
+=1-cc6b1e548e17-6476979c-317-2010
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1685493836
+V7z:ImXUYng8mg;m<US5UQ1
+04 13 4 work tb_fenpin_4Hz fast 0
+=1-cc6b1e548e17-6476984b-2ff-388
+R1
+R2
+n@_opt2
+R3
+R0
+vcounter
+Z4 !s110 1685493316
+!i10b 1
+!s100 CXbHdQTG_R6ZBZ=6XJM@C0
+I<z3Can1X4WBHk=TXMAQ0k2
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1685433804
+8C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/counter.v
+FC:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/counter.v
+L0 1
+Z6 OL;L;10.5;63
+r1
+!s85 0
+31
+Z7 !s108 1685493316.000000
+!s107 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/counter.v|
+!s90 -reportprogress|300|C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/counter.v|-work|work|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfenpin
+R4
+!i10b 1
+!s100 l3aDiSFO90<9kaRPIPIRX0
+IbVNA=kK7n_ILH^;MB2]j<1
+R5
+R0
+w1685332471
+8C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/fenpin.v
+FC:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/fenpin.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/fenpin.v|
+!s90 -reportprogress|300|C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/fenpin.v|-work|work|
+!i113 0
+R8
+R2
+vfenpin_4Hz
+Z9 !s110 1685493317
+!i10b 1
+!s100 ChA>WAXI2BI[jiM:]9A6e1
+IbLOXnNoCG=^`ZnP>LT?d]3
+R5
+R0
+w1685424299
+8C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/fenpin_4Hz.v
+FC:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/fenpin_4Hz.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z10 !s108 1685493317.000000
+!s107 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/fenpin_4Hz.v|
+!s90 -reportprogress|300|C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/fenpin_4Hz.v|-work|work|
+!i113 0
+R8
+R2
+nfenpin_4@hz
+vshuxian
+R4
+!i10b 1
+!s100 KfLZh7RY9VYhYP6W:M@B@1
+I2kF@P]3VM]HfB@za1igID3
+R5
+R0
+w1685492919
+8C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/shuxian.v
+FC:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/shuxian.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/shuxian.v|
+!s90 -reportprogress|300|C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/shuxian.v|-work|work|
+!i113 0
+R8
+R2
+vtb_counter
+R9
+!i10b 1
+!s100 o66l5fc5ZRVbcLTEJNU=T0
+I^fnM[hNVGkPkWFHc[Of9<3
+R5
+R0
+w1685434639
+8C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/tb_counter.v
+FC:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/tb_counter.v
+L0 1
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/tb_counter.v|
+!s90 -reportprogress|300|C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/tb_counter.v|-work|work|
+!i113 0
+R8
+R2
+vtb_fenpin_4Hz
+R9
+!i10b 1
+!s100 lUCe@A9l>ClB;JC=QDzT@0
+Iz]`>Q>2W67c92ioZ7okYX2
+R5
+R0
+w1685413245
+8C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/tb_fenpin_4Hz.v
+FC:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/tb_fenpin_4Hz.v
+L0 1
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/tb_fenpin_4Hz.v|
+!s90 -reportprogress|300|C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/tb_fenpin_4Hz.v|-work|work|
+!i113 0
+R8
+R2
+ntb_fenpin_4@hz
+vtb_shuxian
+!s110 1685493318
+!i10b 1
+!s100 lc3Nfk4_z[nPXmaPS^e4a0
+Ie=M^jRJR=m7mhklT58FHD3
+R5
+R0
+w1685424441
+8C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/tb_shuxian.v
+FC:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/tb_shuxian.v
+L0 1
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/tb_shuxian.v|
+!s90 -reportprogress|300|C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/tb_shuxian.v|-work|work|
+!i113 0
+R8
+R2
+vtb_top
+R9
+!i10b 1
+!s100 b5o[z3V3YBXKLHJ>Pc0kl2
+IR;EE]K`[P3nCI70;U>_9h1
+R5
+R0
+w1685436580
+8C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/tb_top.v
+FC:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/tb_top.v
+L0 1
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/tb_top.v|
+!s90 -reportprogress|300|C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/tb_top.v|-work|work|
+!i113 0
+R8
+R2
+vtop_basketball
+R4
+!i10b 1
+!s100 8iXg6l@_zOVOn5QEVN2VD2
+IIo6`Fj6]>z8jc<Nkf<Ij=3
+R5
+R0
+w1685437873
+8C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/top_basketball.v
+FC:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/top_basketball.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/top_basketball.v|
+!s90 -reportprogress|300|C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/top_basketball.v|-work|work|
+!i113 0
+R8
+R2

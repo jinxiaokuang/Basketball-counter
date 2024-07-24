@@ -1,0 +1,63 @@
+##### Written on 2023/05/31 08:28:54 ###############################
+
+
+##### DESIGN INFO ##################################################
+
+Top Module:
+	top_basketball
+
+Constraint File(s):
+	C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/guanjiao_yueshu.fdc
+	
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 0 critical warning(s), 17 warning(s), out of 104 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+
+
+
+
+
+Constraints with issues:
+********************************************
+
+
+
+
+
+
+
+
+
+W: ConstraintEditor-4019: Port 'clk_out' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'score[0]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'score[1]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'score[2]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'score[3]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'score[4]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'score[5]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'score[6]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'score[7]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'score[8]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'score[9]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'score[10]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'score[11]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'score[12]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'score[13]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'score[14]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'score[15]' unspecified I/O constraint.
+
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+
+
+
+

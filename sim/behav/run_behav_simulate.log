@@ -1,0 +1,195 @@
+# Reading C:/modeltech64_10.5/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.5 Feb 13 2016 
+# //
+# //  Copyright 1991-2016 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do {run_behav_compile.tcl}
+# ** Error: (vlib-35) Failed to create directory "work".
+# File exists. (errno = EEXIST)
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap work ./work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.5 Lib Mapping Utility 2016.02 Feb 13 2016
+# vmap usim C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/pango_sim_libraries/usim 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 08:35:16 on May 31,2023
+# vlog -reportprogress 300 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/top_basketball.v -work work 
+# -- Compiling module top_basketball
+# 
+# Top level modules:
+# 	top_basketball
+# End time: 08:35:16 on May 31,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 08:35:16 on May 31,2023
+# vlog -reportprogress 300 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/fenpin.v -work work 
+# -- Compiling module fenpin
+# 
+# Top level modules:
+# 	fenpin
+# End time: 08:35:16 on May 31,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 08:35:16 on May 31,2023
+# vlog -reportprogress 300 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/counter.v -work work 
+# -- Compiling module counter
+# 
+# Top level modules:
+# 	counter
+# End time: 08:35:16 on May 31,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 08:35:16 on May 31,2023
+# vlog -reportprogress 300 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/shuxian.v -work work 
+# -- Compiling module shuxian
+# ** Warning: C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/shuxian.v(55): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	shuxian
+# End time: 08:35:16 on May 31,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 08:35:17 on May 31,2023
+# vlog -reportprogress 300 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/fenpin_4Hz.v -work work 
+# -- Compiling module fenpin_4Hz
+# 
+# Top level modules:
+# 	fenpin_4Hz
+# End time: 08:35:17 on May 31,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 08:35:17 on May 31,2023
+# vlog -reportprogress 300 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/source/tb_top.v -work work 
+# -- Compiling module tb_top
+# 
+# Top level modules:
+# 	tb_top
+# End time: 08:35:17 on May 31,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 08:35:17 on May 31,2023
+# vlog -reportprogress 300 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/tb_counter.v -work work 
+# -- Compiling module tb_counter
+# 
+# Top level modules:
+# 	tb_counter
+# End time: 08:35:17 on May 31,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 08:35:17 on May 31,2023
+# vlog -reportprogress 300 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/tb_fenpin_4Hz.v -work work 
+# -- Compiling module tb_fenpin_4Hz
+# 
+# Top level modules:
+# 	tb_fenpin_4Hz
+# End time: 08:35:17 on May 31,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 08:35:17 on May 31,2023
+# vlog -reportprogress 300 C:/Users/lenovo/Documents/Pango_Design_Suite_Projects/project_shudian_wangjie/source/tb_shuxian.v -work work 
+# -- Compiling module tb_shuxian
+# 
+# Top level modules:
+# 	tb_shuxian
+# End time: 08:35:18 on May 31,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# do {run_behav_simulate.tcl}
+# Load canceled
+# No design specified
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.objects.interior.cs.body.tree
+# ** Error: No Design Loaded!
+# Error in macro ./run_behav_simulate.tcl line 13
+# No Design Loaded!
+#     while executing
+# "run 1000ns"
+vsim -voptargs=\"+acc\" -L work -L usim work.tb_shuxian
+# vsim -voptargs=""+acc"" -L work -L usim work.tb_shuxian 
+# Start time: 08:35:18 on May 31,2023
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading work.tb_shuxian(fast)
+# Loading work.shuxian(fast)
+add wave -position insertpoint  \
+sim:/tb_shuxian/rst_n
+add wave -position insertpoint  \
+sim:/tb_shuxian/rst_n \
+sim:/tb_shuxian/clk_in \
+sim:/tb_shuxian/clk_out \
+sim:/tb_shuxian/score \
+sim:/tb_shuxian/dis_shu \
+sim:/tb_shuxian/dis_seg
+add wave -position insertpoint  \
+sim:/tb_shuxian/score
+run -all
+vsim -voptargs=\"+acc\" -L work -L usim work.tb_counter
+# End time: 08:40:59 on May 31,2023, Elapsed time: 0:05:41
+# Errors: 0, Warnings: 0
+# vsim -voptargs=""+acc"" -L work -L usim work.tb_counter 
+# Start time: 08:41:00 on May 31,2023
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading work.tb_counter(fast)
+# Loading work.counter(fast)
+vsim -voptargs=\"+acc\" -L work -L usim work.tb_counter
+# End time: 08:41:26 on May 31,2023, Elapsed time: 0:00:26
+# Errors: 0, Warnings: 0
+# vsim -voptargs=""+acc"" -L work -L usim work.tb_counter 
+# Start time: 08:41:26 on May 31,2023
+# ** Note: (vsim-8009) Loading existing optimized design _opt1
+# Loading work.tb_counter(fast)
+# Loading work.counter(fast)
+add wave -position insertpoint  \
+sim:/tb_counter/rst_n \
+sim:/tb_counter/clk_in \
+sim:/tb_counter/en_score \
+sim:/tb_counter/key_row \
+sim:/tb_counter/key_column \
+sim:/tb_counter/score
+run -all
+vsim -voptargs=\"+acc\" -L work -L usim work.tb_fenpin_4Hz
+# End time: 08:43:54 on May 31,2023, Elapsed time: 0:02:28
+# Errors: 0, Warnings: 0
+# vsim -voptargs=""+acc"" -L work -L usim work.tb_fenpin_4Hz 
+# Start time: 08:43:55 on May 31,2023
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading work.tb_fenpin_4Hz(fast)
+# Loading work.fenpin_4Hz(fast)
+add wave -position insertpoint  \
+sim:/tb_fenpin_4Hz/rst_n \
+sim:/tb_fenpin_4Hz/clk_in \
+sim:/tb_fenpin_4Hz/clk_out
+run -all
+run -all
+vsim -voptargs=\"+acc\" -L work -L usim work.tb_top
+# End time: 08:50:13 on May 31,2023, Elapsed time: 0:06:18
+# Errors: 0, Warnings: 0
+# vsim -voptargs=""+acc"" -L work -L usim work.tb_top 
+# Start time: 08:50:13 on May 31,2023
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading work.tb_top(fast)
+# Loading work.top_basketball(fast)
+# Loading work.fenpin(fast)
+# Loading work.counter(fast)
+# Loading work.shuxian(fast)
+add wave -position insertpoint  \
+sim:/tb_top/rst_n \
+sim:/tb_top/clk_in \
+sim:/tb_top/en_score \
+sim:/tb_top/clk_out \
+sim:/tb_top/key_row \
+sim:/tb_top/key_column \
+sim:/tb_top/dis_shu \
+sim:/tb_top/dis_seg \
+sim:/tb_top/score
+run -all
+# End time: 08:56:17 on May 31,2023, Elapsed time: 0:06:04
+# Errors: 0, Warnings: 0

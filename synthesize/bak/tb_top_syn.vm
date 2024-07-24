@@ -1,0 +1,15 @@
+//
+// Generated (version 2020.3<build 62942>) at Mon May 29 18:11:40 2023
+//
+
+module tb_top
+(
+
+);
+
+    GTP_GRS GRS_INST (
+            .GRS_N (1'b1));
+
+
+endmodule
+
